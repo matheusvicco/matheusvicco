@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @matheusvicco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hello World </h1>
 
-<!---
-matheusvicco/matheusvicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou o Matheus Vicco, sou estudante de Sistemas de Informação e adoro tecnologia, estou aprendendo a lhe dar com maquinas e de saber que podemos dominalas é a coisa mais interessante.
+
+Hoje trabalho com ChatBot e vejo algumas coisas de formularios e algumas telas.
+
+Aprendo muito a cada dia com minha equipe e ainda não escolhi se quero seguir com Front-End ou Back-end, mas o pessoal aqui me ajuda demais a me ensinar.
+
+<script>
+  Só quero mesmo ter conhecimento mais profundo sobre JS, mas chego la !
+</script>
